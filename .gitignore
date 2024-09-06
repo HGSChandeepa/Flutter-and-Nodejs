@@ -1,0 +1,5 @@
+node_server/node_modules
+node_server/.env
+
+
+fllutter_client/build
