@@ -46,5 +46,4 @@ A full-stack project combining a **Flutter** mobile app with a **Node.js** backe
 
 ## License
 
-This project is licensed under the MIT License.
-```
+This project is licensed under the MIT License
