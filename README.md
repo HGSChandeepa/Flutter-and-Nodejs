@@ -7,7 +7,7 @@ A full-stack project combining a **Flutter** mobile app with a **Node.js** backe
 - Mobile app built with Flutter
 - RESTful API with Node.js and Express
 - MongoDB database integration
-- 
+  
 ## Setup
 
 ### Backend (Node.js)
